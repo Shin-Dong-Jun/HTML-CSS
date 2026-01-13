@@ -1,0 +1,18 @@
+
+
+.box{
+    width:200px;
+    margin: 50px;
+    padding: 20px;
+    border: 50px, solid, #2ecc71;
+
+}
+
+.green{
+    border : 50px, solid, green;
+    visibility:hidden;
+}
+
+.blue{
+    border: 50px, solid, blue;
+}
