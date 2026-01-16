@@ -1,0 +1,33 @@
+.mother{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    height: 100vh;
+    margin: 0;
+}
+
+.bigBox{
+    width: 700px;
+    height: 300px;
+    background-color: rgb(94, 92, 92);
+    color: white;
+    position: relative;
+}
+
+.childBox{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    color: white;
+    position: absolute;
+}
+
+.locateTopRight{
+    top: 0;
+    right: 0;
+}
+
+.locateBottomRight{
+    bottom: 0;
+    left: 0;
+}
