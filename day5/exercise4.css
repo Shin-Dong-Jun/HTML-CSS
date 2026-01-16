@@ -1,0 +1,19 @@
+.box1{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(81, 81, 81);
+    color: white;
+}
+
+.box2{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+.locate{
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}

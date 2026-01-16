@@ -1,0 +1,27 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.box1{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(81, 81, 81);
+    color: white;
+    position: relative;
+}
+
+.box2{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);}
+    
+

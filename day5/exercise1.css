@@ -1,0 +1,16 @@
+.mother{
+    display: flex;
+}
+
+.black{
+    background-color: black;
+    border: 2px solid white;
+    font-style: italic;
+    color: white;
+    width: 100px;
+    height: 100px;
+}
+
+.box:nth-child(2){
+    margin-left: auto;
+}
